@@ -38,16 +38,6 @@ I'm **[Pasindu Vimansa](https://www.linkedin.com/in/infinitecoder/)**, a Softwar
 <br />
 <br />
 
-
-
-- 🔭 I’m currently working on NLP and Analytics Problem.
-- 🌱 I’m currently learning Data Science and AWS.
-- 👯 I’m looking to collaborate on Data Science Projects.
-- 🤔 I’m looking for help with Data Science / Business Analytics internship.
-- 📫 How to reach me: Connect with me on [**Linkedin**](https://www.linkedin.com/in/anurag-lahon/) or anuraglahondp@gmail.com
-- 😄 Pronouns: Data Science | Machine Learning | Business Analytics | Deep Learning
-- ⚡ Fun fact: I like to vlog and hike. 😄 
-
 <br />
  
 
