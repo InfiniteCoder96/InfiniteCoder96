@@ -5,7 +5,7 @@
 -->
 I'm **[Pasindu Vimansa](https://www.linkedin.com/in/infinitecoder/)**, a Software Enginnering graduate at Sri Lanka Institute of Infomation Technology, who loves to analyze and building products.Passionate about learning new technologies. **You can find me on [LinkedIn](https://www.linkedin.com/in/infinitecoder/)**.
 
- [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@anurag-lahon&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/infinitecoder/)
+ [![LinkedIn](https://img.shields.io/static/v1.svg?label=LinkedIn&message=@infinitecoder&logo=linkedin&style=flat&color=blue)](https://www.linkedin.com/in/infinitecoder/)
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=infinitecoder96&show_icons=true&theme=radical)
